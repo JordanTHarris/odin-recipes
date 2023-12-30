@@ -1,0 +1,29 @@
+.font-setting {
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+body {
+  background-color: #242424;
+  color: #4dc9df;
+  font-size: 20px;
+}
+
+.description {
+  color: white
+}
+
+.title {
+  color: #6fffe7
+}
+
+.header {
+  color: #ffeb7a
+}
+
+.inner-header {
+  color: #8dffb3
+}
+
+a {
+  color: #ffd6fc
+}
